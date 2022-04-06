@@ -1,3 +1,5 @@
+⚠️ **No longer maintained:** [Mastodon 3.5.0](https://github.com/mastodon/mastodon/releases/tag/v3.5.0) adds the ability to automatically delete old posts. This project is no longer necessary, and I won't be maintaining this code moving forward.
+
 # MastoPurge
 *Purges Mastodon accounts. Deletes old posts. Makes things clean again.*
 
